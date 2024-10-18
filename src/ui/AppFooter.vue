@@ -46,10 +46,6 @@ export default {
           name: "联系我们",
           link: "mailto:contact@farc.org.cn",
         },
-        {
-          name: "社群",
-          link: "https://qm.qq.com/q/4Q0M8Zl7y0",
-        },
       ],
     };
   },
