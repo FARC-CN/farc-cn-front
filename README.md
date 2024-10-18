@@ -1,10 +1,10 @@
-# FurDevsCN
+# FARC-CN-FRONT
 
-一个有态度的小动物开发团队
+> Fork from FurDevsCN/FurDevsCN
 
 ## Quick start
 
-	git clone https://www.github.com/FurDevsCN/FurDevsCN
+	git clone https://github.com/FARC-CN/farc-cn-front
 	pnpm install
 	pnpm dev
 
@@ -15,12 +15,12 @@
 ## Contribution
 
 You can contribute by:
-- Open a [PR](https://github.com/FurDevsCN/FurDevsCN/pulls "PR")
-- Open an [issue](https://github.com/FurDevsCN/FurDevsCN/issues "issue")
+- Open a [PR](https://github.com/FARC-CN/farc-cn-front/pulls "PR")
+- Open an [issue](https://github.com/FARC-CN/farc-cn-front/issues "issue")
 
 ## License
 
-    Copyright (C) 2023 FurDevsCN
+    Copyright (C) 2024 FARC-CN & FurDevsCN
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -36,6 +36,8 @@ You can contribute by:
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Acknowledgments
+
+[YSJF.COM](https://www.ysjf.com/), Video source share site.
 
 [Hooskai-Chamfered-Square](https://github.com/SiberiaHusky/Hooskai-Chamfered-Square "Hooskai-Chamfered-Square"), a Chamfered square font.
 

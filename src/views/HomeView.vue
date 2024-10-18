@@ -22,14 +22,14 @@ export default {
         class="w-screen max-w-2xl absolute inset-0 filter backdrop-blur-md rounded-xl"
       >
         <div class="mx-20 flex-col">
-          <img src="/FurDevsCN.svg" class="h-32 mt-36 max-xl:mt-24 invert" />
+          <img src="/FARC.svg" class="h-32 mt-36 max-xl:mt-24" />
           <h1
-            class="font-HooskaiChamferedSquare text-4xl font-bold tracking-tight text-gray-100 sm:text-6xl dark:text-gray-100 mt-6"
+            class="font-HarmonyOSSans text-4xl font-bold tracking-tight text-gray-100 sm:text-6xl dark:text-gray-100 mt-6"
           >
-            Fur<br />Devs<br />CN
+            F A R C<br />C N
           </h1>
           <p class="my-6 text-lg leading-8 text-gray-100 dark:text-slate-100">
-            一个有态度的小动物开发团体
+            有技术，更有爱！
           </p>
           <div class="md:flex md:items-center mt-6">
             <button
@@ -38,7 +38,7 @@ export default {
             >
               Learn More
             </button>
-            <a href="https://github.com/FurDevsCN" class="ml-5">
+            <a href="https://github.com/FARC-CN" class="ml-5">
               <img
                 src="/Github.svg"
                 class="h-8 max-sm:mt-4 invert dark:filter dark:invert"
@@ -52,10 +52,11 @@ export default {
           class="dark:w-full dark:h-full dark:absolute dark:inset-0 dark:bg-black dark:opacity-30"
         ></div>
         <video class="object-cover w-full h-full" autoplay muted loop>
-          <source src="/wave.mp4" type="video/mp4" />
+          <source src="/fire.mp4" type="video/mp4" />
         </video>
       </div>
     </div>
+    <!--
     <announcementBar>
       <a class="text-white">🎉我们正在招新！</a>
       <a
@@ -66,5 +67,6 @@ export default {
         <b>点击这里查看详情 →</b>
       </a>
     </announcementBar>
+    -->
   </div>
 </template>

@@ -4,7 +4,7 @@
       <div class="text-center md:text-left">
         <a href="/"
           ><img
-            src="/FurDevsCN.svg"
+            src="/FARC.svg"
             class="animate-bounce h-12 mx-auto mb-8 max-mb:mb-6 hover:animate-none dark:filter dark:invert"
         /></a>
       </div>
@@ -40,15 +40,15 @@ export default {
         },
         {
           name: "Github",
-          link: "https://www.github.com/FurDevsCN",
+          link: "https://github.com/FARC-CN",
         },
         {
           name: "联系我们",
-          link: "mailto:colour93@furdevs.cn",
+          link: "mailto:contact@farc.org.cn",
         },
         {
           name: "社群",
-          link: "https://qm.qq.com/q/BWbDSGK5Ms",
+          link: "https://qm.qq.com/q/4Q0M8Zl7y0",
         },
       ],
     };

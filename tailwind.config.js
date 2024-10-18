@@ -15,7 +15,7 @@ export default {
       },
     },
     fontFamily: {
-      HooskaiChamferedSquare: ["HooskaiChamferedSquare", "sans-serif"],
+      HarmonyOSSans: ["HarmonyOSSans", "sans-serif"],
     },
   },
   plugins: [],

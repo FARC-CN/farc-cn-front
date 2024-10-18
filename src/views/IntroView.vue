@@ -14,7 +14,7 @@ export default {
   methods: {
     async getMemberList() {
       this.memberList = await fetchApi(
-        "https://api.github.com/orgs/FurDevsCN/members",
+        "https://api.github.com/orgs/FARC-CN/members",
       );
     },
   },
@@ -35,7 +35,7 @@ export default {
           我们的成员
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600 dark:text-slate-200">
-          Meet our members in FurDevsCN
+          Meet our members in FARC-CN
         </p>
         <span class="mt-6 text-md leading-8 text-gray-500"
           ><b>按照字母顺序排序，排名不分先后</b></span
