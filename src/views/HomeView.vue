@@ -70,3 +70,8 @@ export default {
     -->
   </div>
 </template>
+<style scoped>
+video {
+  background: url("/fire.webp") no-repeat center;
+}
+</style>
